@@ -37,4 +37,4 @@ Pronto, ambiente virtual criado e dependências instaladas.
 
 ## Utilização
 
-Basta abrir o notbook e editar a variável lista de símbolos para os símbolos desejados e apertar o play... Em instantes voce tera um gráfico.
+Basta abrir o notbook e editar a variável lista de símbolos para os símbolos desejados e apertar o play... Em instantes voce tera um DashBoard.
